@@ -1,6 +1,10 @@
+
+
 # Slash Flutter Developer Internship Task ❤️ 
 
 ![Slash Flutter Developer Internship Task Overview This repository contains my submission for the Slash Flutter Developer Internship Task  The task involved creating a single-screen Flutter app to d](https://github.com/Halawany1/News-App/assets/96886506/8a815a9b-cadb-4a95-a33a-e450684f61b5)
+
+#### [Video](https://github.com/Halawany1/Slash_Assessment/assets/96886506/aedc447f-280e-455f-9dce-fe43c11fa2ef)
 
 # Overview
 This repository contains my submission for the Slash Flutter Developer Internship Task. The task involved creating a single-screen Flutter app to display detailed product information within the context of the Slash E-commerce app. The goal was to provide a seamless user experience that allows users to explore product variations and make informed purchasing decisions.
