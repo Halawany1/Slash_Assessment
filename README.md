@@ -17,10 +17,7 @@ This repository contains my submission for the Slash Flutter Developer Internshi
 - Showed available colors, sizes, and materials.
 - Presented the product description, price, and brand name.
 - Included an optional "Add to Cart" button.
-- **Home Screen with Product Grid**: Constructed a home screen featuring a grid of simple product cards.
 
-- Each card represents a different product.
-- Users can select a product card to navigate to the corresponding product details screen.
 - **Responsive Design**: Utilized the screen_util package to ensure a responsive design that adapts to different screen sizes.
 
 - **State Management with Cubit**: Implemented state management using the Cubit pattern to efficiently manage the app's state.
